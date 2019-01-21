@@ -1,9 +1,11 @@
 ====================
 Instalando o MongoDB
 ====================
-Setando a variável de ambiente:
+Setando a variï¿½vel de ambiente:
 - D:\Program Files\MongoDB\Server\3.6\bin
 
-No diretório tem que criar a pasta
+No diretï¿½rio tem que criar a pasta
 - data\db
+
+Estou fazendo a parte da grid
 
