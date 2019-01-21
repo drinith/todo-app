@@ -1,4 +1,4 @@
-//Ele acessa esses caras através do local das dependecias
+//Ele acessa esses caras através do local das dependeciasc
 import 'modules/bootstrap/dist/css/bootstrap.min.css'
 import 'modules/font-awesome/css/font-awesome.min.css'
 

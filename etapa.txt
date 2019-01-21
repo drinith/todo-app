@@ -1,0 +1,9 @@
+====================
+Instalando o MongoDB
+====================
+Setando a variável de ambiente:
+- D:\Program Files\MongoDB\Server\3.6\bin
+
+No diretório tem que criar a pasta
+- data\db
+
